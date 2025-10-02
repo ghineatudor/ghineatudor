@@ -1,11 +1,11 @@
 # 👨‍💻 Hey, I'm Tudor!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tudor%20Ghinea-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tudor-ghinea)
-[![GitHub](https://img.shields.io/badge/GitHub-ghineatudor-black?logo=github\&logoColor=white)](https://github.com/ghineatudor)
+[![Gmail](https://img.shields.io/badge/Gmail-tudy.ghinea%40gmail.com-red?logo=gmail\&logoColor=white)](mailto:tudy.ghinea@gmail.com)
 
-🎓 Student at the Faculty of Cybernetics, Statistics and Economic Informatics, majoring in **Computer Science**.
-📚 Involved in academic and practical projects combining IT, programming, and data analysis.
-💡 Passionate about software development, optimization, and building scalable applications.
+🎓 Graduated from the Faculty of Cybernetics, Statistics and Economic Informatics, majoring in Economic Informatics.
+📚 Currently pursuing a Master’s degree in Databases – Business Support.
+💡 Passionate about IT, software development and data analysis.
 
 ---
 
@@ -13,7 +13,7 @@
 
 * 🔍 Analytical thinker, detail-oriented, and motivated to solve complex problems.
 * 💻 Skilled in full-stack development, databases, and algorithmic problem solving.
-* 📊 Interested in data science, system optimization, and applied demography projects.
+* 📊 Interested in data science, recommendation systems, business intelligence and interactive applications.
 * 🌍 Open to collaboration, research, and innovative projects.
 
 ---
