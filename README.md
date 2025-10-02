@@ -39,7 +39,7 @@
 
 ## 🚀 Projects
 
-* 🔹 **EnergyRec** – energy consumption optimization application
+* 🔹 **EnergyRec** – energy consumption optimization application in Python (Streamlit)
 * 🔹 **NotesMax** – web app for class/seminar note management (React + Node.js)
 * 🔹 **Asteroids Clone** – interactive JS game with collisions, scoring, and Web Storage integration
 * 🔹 **Academic projects** – applied research in demography and econometrics
