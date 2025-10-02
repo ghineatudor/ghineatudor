@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tudor%20Ghinea-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tudor-ghinea)
 [![GitHub](https://img.shields.io/badge/GitHub-ghineatudor-black?logo=github\&logoColor=white)](https://github.com/ghineatudor)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghineatudor&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghineatudor&layout=compact&theme=radical" />
-
 🎓 Student at the Faculty of Cybernetics, Statistics and Economic Informatics, majoring in **Computer Science**.
 📚 Involved in academic and practical projects combining IT, programming, and data analysis.
 💡 Passionate about software development, optimization, and building scalable applications.
@@ -46,6 +43,19 @@
 * 🔹 **NotesMax** – web app for class/seminar note management (React + Node.js)
 * 🔹 **Asteroids Clone** – interactive JS game with collisions, scoring, and Web Storage integration
 * 🔹 **Academic projects** – applied research in demography and econometrics
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghineatudor&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghineatudor&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghineatudor&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
