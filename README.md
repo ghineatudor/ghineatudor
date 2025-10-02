@@ -1,13 +1,14 @@
 ```markdown
 <!-- Header -->
-# 👨‍💻 Hey, I'm Tudor!  
+# 👨‍💻 Hey, I'm Tudor!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tudor%20Ghinea-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tudor-ghinea)
 [![GitHub](https://img.shields.io/badge/GitHub-ghineatudor-black?logo=github&logoColor=white)](https://github.com/ghineatudor)
 
-🎓 Student at the Faculty of Cybernetics, Statistics and Economic Informatics, majoring in Computer Science.  
-📚 Involved in academic and practical projects that combine IT, programming, and data analysis.  
-💡 Passionate about software development, optimization, and building scalable applications.  
+🎓 Student at the Faculty of Cybernetics, Statistics and Economic Informatics, majoring in **Computer Science**.  
+📚 Involved in academic and practical projects combining IT, programming, and data analysis.  
+💡 Passionate about software development, optimization, and building scalable applications.
+
 
 ---
 
